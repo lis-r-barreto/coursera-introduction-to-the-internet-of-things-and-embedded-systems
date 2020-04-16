@@ -2,7 +2,7 @@
   <img width="1000" height="293" src="https://github.com/la-devotchka/introduction-to-the-internet-of-things-and-embedded-systems/blob/master/iot_coursera.png">
 </p>
 
-Hi, my name is <b>Lis Barreto</b> and this is my repository. You will find the content of the 1st course of the specialization "An Introduction to Programming the Internet of Things (IOT) Specialization", created by Coursera and offered by University of California Irvine (UCI)
+Hi, my name is <b>Lis Barreto</b> and this is my repository. You will find the content of the 1st course of the "An Introduction to Programming the Internet of Things (IOT) Specialization" offered by University of California Irvine (UCI) in collaboration with Coursera.
 
 
 <b>About this course</b>
