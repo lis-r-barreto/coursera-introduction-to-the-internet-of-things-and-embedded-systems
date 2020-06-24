@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1000" height="293" src="https://github.com/la-devotchka/introduction-to-the-internet-of-things-and-embedded-systems/blob/master/iot_coursera.png">
+  <img width="800" height="234.40" src="https://github.com/lis-r-barreto/introduction-to-the-internet-of-things-and-embedded-systems/blob/master/iot_coursera.png">
 </p>
 
 Hi, my name is <b>Lis Barreto</b> and this is my repository. You will find the content of the 1st course of the "An Introduction to Programming the Internet of Things (IOT) Specialization" offered by University of California Irvine (UCI) in collaboration with Coursera.
@@ -26,3 +26,7 @@ Some skills learned during this course:
 13. Explain MANETs and their relation to IoT
 
 This course is elaborated by Ian G. Harris. He is currently Vice Chair of Undergraduate Education in the Computer Science Department at the University of California, Irvine. 
+
+<p align="center">
+  <img width="800" height="618.18" src="https://github.com/lis-r-barreto/introduction-to-the-internet-of-things-and-embedded-systems/blob/master/certificado.png">
+</p>
