@@ -28,5 +28,5 @@ Some skills learned during this course:
 This course is elaborated by Ian G. Harris. He is currently Vice Chair of Undergraduate Education in the Computer Science Department at the University of California, Irvine. 
 
 <p align="center">
-  <img width="1000" height="618.18" src="https://github.com/lis-r-barreto/introduction-to-the-internet-of-things-and-embedded-systems/blob/master/certificado.png">
+  <img width="1000" height="618.18" src="https://github.com/lis-r-barreto/introduction-to-the-internet-of-things-and-embedded-systems/blob/master/certificate.png">
 </p>
